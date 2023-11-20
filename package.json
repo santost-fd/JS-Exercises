@@ -1,0 +1,25 @@
+{
+  "name": "JS_Prac",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "ex1": "node ./exercises/scopes-and-variables/ex1.js",
+    "ex1-solution": "node ./exercises/scopes-and-variables/ex1-solution.js",
+    "ex2": "node ./exercises/objects-and-functions/ex2.js",
+    "ex2-solution": "node ./exercises/objects-and-functions/ex2-solution.js",
+    "ex3": "node ./exercises/prototypes-and-inheritance/ex3.js",
+    "ex3-solution": "node ./exercises/prototypes-and-inheritance/ex3-solution.js",
+    "ex4": "node ./exercises/promises-async-await/ex4.js",
+    "ex4-solution": "node ./exercises/promises-async-await/ex4-solution.js",
+    "ex5": "node ./exercises/promises-async-await/ex5.js",
+    "ex5-solution": "node ./exercises/promises-async-await/ex5-solution.js",
+    "ex6": "node ./exercises/promises-async-await/ex6.js",
+    "ex6-solution": "node ./exercises/promises-async-await/ex6-solution.js",
+    "ex7": "node ./exercises/features-and-tricky-js/ex7.js",
+    "ex7-solution": "node ./exercises/features-and-tricky-js/ex7-solution.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.2"
+  }
+}
